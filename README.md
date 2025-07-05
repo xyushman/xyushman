@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 
