@@ -26,26 +26,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-## 🎮 Animated Game
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Snake Game" width="400"/>
-</p>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ayushmangupta">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
