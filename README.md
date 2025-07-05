@@ -7,17 +7,10 @@
   <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://xyushman.live"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,tailwind,firebase,mongodb,mysql,postgres,git,github,docker,aws" />
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&theme=radical" width="47%" />
