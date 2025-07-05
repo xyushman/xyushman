@@ -12,8 +12,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,tailwind,firebase,mongodb,mysql,postgres,git,github,docker,aws" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&theme=radical&hide_border=true&border_radius=20" width="47%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&theme=tokyonight&hide_border=true&border_radius=20" width="47%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyushman&theme=tokyonight&hide_border=true&radius=20" width="95%" alt="Contribution Graph" />
 </p>
 ---
 
