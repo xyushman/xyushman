@@ -7,17 +7,6 @@
   <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://ayushmangupta.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 &nbsp;AI Engineering student at **VIT Bhopal**
-- 💻 &nbsp;Building full-stack web apps & AI-powered tools
-- 🌱 &nbsp;Learning **Cloud Infrastructure**, **DevOps**, and **System Design**
-- ⚔️ &nbsp;Solved 300+ problems in **competitive programming**
-- 💬 &nbsp;Ask me about **React**, **Next.js**, **Firebase**, or **CP**
-
 ---
 
 ## 🛠️ Tech Stack
