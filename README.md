@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ayushman Gupta</h1>
-<h3 align="center">🚀 DevOps Engineering @ VIT Bhopal | 💻 Full-Stack Developer | 🏆 Competitive Programmer</h3>
+<h3 align="center">🚀 DevOps  | 💻 Full-Stack Developer | 🏆 Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
