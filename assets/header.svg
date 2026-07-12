@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&amp;display=swap');
+      .window {
+        fill: #0a0e17;
+        stroke: #1e293b;
+        stroke-width: 2px;
+      }
+      .titlebar {
+        fill: #0f172a;
+      }
+      .title-text {
+        font-family: 'Space Mono', monospace;
+        font-size: 13px;
+        fill: #64748b;
+      }
+      .code-text {
+        font-family: 'Space Mono', monospace;
+        font-size: 14.5px;
+        fill: #e2e8f0;
+      }
+      .prompt { fill: #dbff00; font-weight: bold; }
+      .cmd { fill: #ffffff; font-weight: bold; }
+      .key { fill: #38bdf8; }
+      .str-yellow { fill: #dbff00; }
+      .str-purple { fill: #c084fc; }
+      .str-green { fill: #4ade80; }
+      .str-blue { fill: #7dd3fc; }
+      .bracket { fill: #94a3b8; }
+      
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      .cursor {
+        fill: #dbff00;
+        animation: blink 1.2s infinite;
+      }
+    </style>
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dbff00" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Window Background with subtle border gradient -->
+  <rect x="2" y="2" width="896" height="266" rx="12" ry="12" fill="#0a0e17" stroke="url(#border-glow)" stroke-width="2" />
+
+  <!-- Title Bar -->
+  <path d="M 2 14 Q 2 2 14 2 L 886 2 Q 898 2 898 14 L 898 42 L 2 42 Z" fill="#0f172a" />
+  <line x1="2" y1="42" x2="898" y2="42" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="28" cy="22" r="6.5" fill="#ff5f56" />
+  <circle cx="48" cy="22" r="6.5" fill="#ffbd2e" />
+  <circle cx="68" cy="22" r="6.5" fill="#27c93f" />
+
+  <!-- Title Text -->
+  <text x="450" y="26" text-anchor="middle" class="title-text">ayushman@terminal:~ (zsh)</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(30, 75)">
+    <!-- Line 1: Command -->
+    <text x="0" y="0" class="code-text"><tspan class="prompt">$ </tspan><tspan class="cmd">cat profile.config.json</tspan></text>
+
+    <!-- Line 2: { -->
+    <text x="0" y="26" class="code-text bracket">{</text>
+
+    <!-- Line 3: Name -->
+    <text x="20" y="52" class="code-text"><tspan class="key">"developer"</tspan><tspan class="bracket">: </tspan><tspan class="str-yellow">"Ayushman Gupta"</tspan><tspan class="bracket">,</tspan></text>
+
+    <!-- Line 4: Roles -->
+    <text x="20" y="78" class="code-text"><tspan class="key">"roles"</tspan><tspan class="bracket">: [</tspan><tspan class="str-purple">"DevOps Engineer"</tspan><tspan class="bracket">, </tspan><tspan class="str-blue">"Full-Stack Developer"</tspan><tspan class="bracket">, </tspan><tspan class="str-green">"Competitive Programmer"</tspan><tspan class="bracket">],</tspan></text>
+
+    <!-- Line 5: Focus -->
+    <text x="20" y="104" class="code-text"><tspan class="key">"focus"</tspan><tspan class="bracket">: [</tspan><tspan class="str-yellow">"Cloud Infrastructure"</tspan><tspan class="bracket">, </tspan><tspan class="str-yellow">"Scalable Web Apps"</tspan><tspan class="bracket">, </tspan><tspan class="str-yellow">"Algorithmic Problem Solving"</tspan><tspan class="bracket">],</tspan></text>
+
+    <!-- Line 6: Portfolio -->
+    <text x="20" y="130" class="code-text"><tspan class="key">"portfolio"</tspan><tspan class="bracket">: </tspan><tspan class="str-blue">"https://xyushman.qzz.io/"</tspan><tspan class="bracket">,</tspan></text>
+
+    <!-- Line 7: Status -->
+    <text x="20" y="156" class="code-text"><tspan class="key">"status"</tspan><tspan class="bracket">: </tspan><tspan class="str-green">"Architecting high-performance systems with clean code &amp; modern aesthetics 🚀"</tspan></text>
+
+    <!-- Line 8: } -->
+    <text x="0" y="182" class="code-text bracket">}</text>
+
+    <!-- Line 9: Prompt + Blinking Cursor -->
+    <g transform="translate(0, 208)">
+      <text x="0" y="0" class="code-text"><tspan class="prompt">$ </tspan></text>
+      <rect x="18" y="-13" width="10" height="16" class="cursor" />
+    </g>
+  </g>
+</svg>
