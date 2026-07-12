@@ -1,89 +1,93 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=1000&color=DBFF00&center=true&vCenter=true&width=680&height=55&lines=root%40ayushman%3A~%24+whoami;DevOps+Engineer+%2F%2F+Full-Stack+Architect;Shipping+resilient+cloud+infrastructure+at+scale;Competitive+Programmer+%2F%2F+C%2B%2B+%26+Python+Algorithmic+Mastery" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/-%20-FF5F56?style=flat-square" height="14"/> <img src="https://img.shields.io/badge/-%20-FFBD2E?style=flat-square" height="14"/> <img src="https://img.shields.io/badge/-%20-27C93F?style=flat-square" height="14"/> &nbsp; <sub><code>ayushman@devops:~</code></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=900&color=DBFF00&center=true&vCenter=true&width=680&lines=root%40ayushman%3A~%24+whoami;DevOps+Engineer+%2F%2F+Full-Stack+Developer;Shipping+reliable+systems+at+scale;Competitive+Programmer+%2F%2F+C%2B%2B+%26+Python" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=xyushman&style=flat-square&color=dbff00&label=PROFILE+VIEWS" height="20"/> <img src="https://img.shields.io/github/followers/xyushman?style=flat-square&color=dbff00&labelColor=020202&label=FOLLOWERS" height="20"/>
 
 </div>
 
 <br/>
+
+```bash
+$ cat /etc/ayushman/profile.conf
+```
 
 ```yaml
-# cat /etc/ayushman/profile.conf
 name:       Ayushman Gupta
 role:       DevOps Engineer · Full-Stack Developer · Competitive Programmer
-focus:      resilient cloud infra, high-performance web apps, algorithmic problem solving
-status:     ● online (system active)
+focus:      reliable infra, fast apps, hard problems
+uptime:     online, shipping
 ```
 
-> I architect the CI/CD pipelines that ship the code, build the full-stack applications the code powers, and — every so often — spend the night arguing with a dynamic programming problem until it gives up.
-
-<br/>
+I build the pipeline that ships the code, the app the code runs in, and — every
+so often — spend a night arguing with a DP problem until it gives up.
 
 <div align="left">
-  <a href="http://xyushman.qzz.io/"><img src="https://img.shields.io/badge/PORTFOLIO-xyushman.qzz.io-020202?style=for-the-badge&logo=googlechrome&logoColor=dbff00&borderColor=dbff00" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LINKEDIN-ayushmangupta04-020202?style=for-the-badge&logo=linkedin&logoColor=dbff00&borderColor=dbff00" alt="LinkedIn" /></a>
-  <a href="https://github.com/xyushman"><img src="https://img.shields.io/badge/GITHUB-xyushman-020202?style=for-the-badge&logo=github&logoColor=dbff00&borderColor=dbff00" alt="GitHub" /></a>
-  <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ayushmanng04-020202?style=for-the-badge&logo=gmail&logoColor=dbff00&borderColor=dbff00" alt="Email" /></a>
+  <a href="http://xyushman.qzz.io/"><img src="https://img.shields.io/badge/PORTFOLIO-xyushman.qzz.io-020202?style=for-the-badge&logo=googlechrome&logoColor=dbff00" /></a>
+  <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LINKEDIN-ayushmangupta04-020202?style=for-the-badge&logo=linkedin&logoColor=dbff00" /></a>
+  <a href="https://github.com/xyushman"><img src="https://img.shields.io/badge/GITHUB-xyushman-020202?style=for-the-badge&logo=github&logoColor=dbff00" /></a>
+  <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ayushmanng04-020202?style=for-the-badge&logo=gmail&logoColor=dbff00" /></a>
 </div>
 
 <br/>
 
 ```bash
-$ systemctl list-units --type=service --state=running
+$ systemctl list-units --type=service
 ```
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🟢 core.service</b> <br/>
-      <sub>Core Languages & Shell Automation</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash&perline=6&theme=dark" alt="Core Skills" />
-    </td>
-    <td valign="top" width="50%">
-      <b>🟢 frontend.service</b> <br/>
-      <sub>Client Architecture & UI Systems</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=6&theme=dark" alt="Frontend Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🟢 backend.service</b> <br/>
-      <sub>API Design & Database Management</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&perline=6&theme=dark" alt="Backend Skills" />
-    </td>
-    <td valign="top" width="50%">
-      <b>🟢 infra.service</b> <br/>
-      <sub>Cloud Orchestration & DevOps Pipelines</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux&perline=6&theme=dark" alt="Infra Skills" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+  <th align="left" width="16%">SERVICE</th>
+  <th align="left" width="12%">STATUS</th>
+  <th align="left">STACK</th>
+</tr>
+<tr>
+  <td><code>core.service</code></td>
+  <td>🟢 active</td>
+  <td><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash&theme=dark" height="32"/></td>
+</tr>
+<tr>
+  <td><code>frontend.service</code></td>
+  <td>🟢 active</td>
+  <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" height="32"/></td>
+</tr>
+<tr>
+  <td><code>backend.service</code></td>
+  <td>🟢 active</td>
+  <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&theme=dark" height="32"/></td>
+</tr>
+<tr>
+  <td><code>infra.service</code></td>
+  <td>🟢 active</td>
+  <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux&theme=dark" height="32"/></td>
+</tr>
 </table>
 
-```diff
-+ all services active (running) — zero-downtime architecture verified
-```
-
 <br/>
 
 ```bash
-$ docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"
+$ docker ps --format "table {{.Image}}\t{{.Status}}\t{{.Names}}"
 ```
 
-| CONTAINER ID | SERVICE / IMAGE | STATUS & UP TIME | PORTS & CONFIG |
-|:---:|:---|:---|:---|
-| `c0d3p1p3` | **`ci-cd-pipelines`** | `Up 24/7 (healthy)` | `0.0.0.0:443->443/tcp` · *Zero-Downtime CI/CD & Cloud Infra* |
-| `d5a4l60s` | **`dsa-grind`** | `Up 400+ days` | `100% CPU` · *Daily Dynamic Programming & Graph Reps* |
-| `f8s9a2p0` | **`side-projects`** | `Up & Scaling` | `Next.js + React + Node + PostgreSQL` · *Building & Shipping* |
+| IMAGE | STATUS | NAMES |
+|:--|:--|:--|
+| `ci-cd-pipelines:latest` | 🟢 Up 3 years, healthy | automated deploys · zero-downtime |
+| `dsa-grind:latest` | 🟢 Up 400+ days, healthy | daily DP & graph reps |
+| `side-projects:latest` | 🔵 restarting… | building, breaking, redeploying |
 
 <br/>
-
-```bash
-$ git log --oneline --graph --decorate -n 3
-* 504280f (HEAD -> main) feat: redesign profile with clean CLI/systemd/docker aesthetic
-* 84844af feat: add custom SVG terminal header and structured grid cards
-* 73ec6c1 feat: redesign GitHub profile README matching high-tech cyberpunk HUD aesthetic
-```
 
 <div align="center">
+
+```bash
+$ git log --oneline --graph -5 && github-activity --last=1y
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xyushman&bg_color=020202&color=dbff00&line=dbff00&point=e6edf3&area=true&area_color=dbff00&hide_border=true&custom_title=commit%20activity" width="97%" alt="Activity Graph"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&icon_color=dbff00&text_color=e6edf3" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&hide_border=true&border_radius=12&background=020202&ring=dbff00&fire=dbff00&currStreakLabel=dbff00&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" width="48%" alt="GitHub Streak" />
@@ -100,13 +104,13 @@ $ tail -f /var/log/contributions.log
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
+<img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" width="97%"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" width="97%"/>
+</picture>
 </div>
 
 <br/>
@@ -117,7 +121,11 @@ $ exit
 
 <div align="center">
 
-**`process finished — connection stays open`**<br/>
-<sub>Reach out anytime at <a href="mailto:ayushmanng04@gmail.com"><b>ayushmanng04@gmail.com</b></a> or check <a href="http://xyushman.qzz.io/"><b>xyushman.qzz.io</b></a></sub>
+**logout — connection stays open**
+<sub><code>ayushmanng04@gmail.com</code> · always reachable</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-FF5F56?style=flat-square" height="10"/> <img src="https://img.shields.io/badge/-%20-FFBD2E?style=flat-square" height="10"/> <img src="https://img.shields.io/badge/-%20-27C93F?style=flat-square" height="10"/>
 
 </div>
