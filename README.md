@@ -144,11 +144,13 @@ Connection to xyushman-dev closed.
 
 <div align="center">
 
-**logout — connection stays open**
-<sub><code>ayushmanng04@gmail.com</code> · always reachable</sub>
+<h3>
+  <b>logout — connection stays open</b>
+</h3>
+<code>ayushmanng04@gmail.com</code> · <b>always reachable</b>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/-%20-FF5F56?style=flat-square" height="16"/> <img src="https://img.shields.io/badge/-%20-FFBD2E?style=flat-square" height="16"/> <img src="https://img.shields.io/badge/-%20-27C93F?style=flat-square" height="16"/>
+<img src="https://img.shields.io/badge/-%20-FF5F56?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/-%20-FFBD2E?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/-%20-27C93F?style=flat-square" height="24"/>
 
 </div>
