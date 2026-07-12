@@ -1,99 +1,115 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Terminal Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="http://xyushman.qzz.io/"><img src="https://img.shields.io/badge/Portfolio-xyushman.qzz.io-0a0e17?style=for-the-badge&logo=google-chrome&logoColor=dbff00&borderColor=1e293b" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LinkedIn-Ayushman_Gupta-0a0e17?style=for-the-badge&logo=linkedin&logoColor=38bdf8&borderColor=1e293b" alt="LinkedIn" /></a>
-  <a href="https://github.com/xyushman"><img src="https://img.shields.io/badge/GitHub-xyushman-0a0e17?style=for-the-badge&logo=github&logoColor=white&borderColor=1e293b" alt="GitHub" /></a>
-  <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/Email-ayushmanng04@gmail.com-0a0e17?style=for-the-badge&logo=gmail&logoColor=ff5f56&borderColor=1e293b" alt="Email" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=DBFF00&center=true&vCenter=true&width=650&lines=root%40ayushman%3A~%24+whoami;DevOps+Engineer+%2F%2F+Full-Stack+Developer;Shipping+reliable+systems+at+scale;Competitive+Programmer+%2F%2F+C%2B%2B+%26+Python" alt="Typing SVG" />
 
----
+</div>
 
-### 🛠️ Core Engineering Focus
+<br/>
+
+```bash
+$ cat /etc/ayushman/profile.conf
+```
+
+```yaml
+name:       Ayushman Gupta
+role:       DevOps Engineer · Full-Stack Developer · Competitive Programmer
+focus:      reliable infra, fast apps, hard problems
+status:     ● online
+```
+
+I build the pipeline that ships the code, the app the code runs in, and — every
+so often — spend a night arguing with a DP problem until it gives up.
+
+<div align="left">
+  <a href="http://xyushman.qzz.io/"><img src="https://img.shields.io/badge/PORTFOLIO-xyushman.qzz.io-020202?style=for-the-badge&logo=googlechrome&logoColor=dbff00" /></a>
+  <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LINKEDIN-ayushmangupta04-020202?style=for-the-badge&logo=linkedin&logoColor=dbff00" /></a>
+  <a href="https://github.com/xyushman"><img src="https://img.shields.io/badge/GITHUB-xyushman-020202?style=for-the-badge&logo=github&logoColor=dbff00" /></a>
+  <a href="mailto:ayushmanng04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ayushmanng04-020202?style=for-the-badge&logo=gmail&logoColor=dbff00" /></a>
+</div>
+
+<br/>
+
+```bash
+$ systemctl list-units --type=service --state=running
+```
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Cloud & DevOps Architecture</h4>
-      <p>Designing automated CI/CD pipelines, containerized deployment workflows, and highly resilient AWS infrastructure.</p>
-      <p><code>Docker</code> • <code>Kubernetes</code> • <code>AWS</code> • <code>Linux</code> • <code>Terraform</code> • <code>CI/CD</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Full-Stack Web Development</h4>
-      <p>Crafting high-performance client interfaces and secure, scalable server architectures with modern web technologies.</p>
-      <p><code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Tailwind CSS</code> • <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Competitive Programming & Algorithms</h4>
-      <p>Deep expertise in Data Structures, dynamic programming, graph theory, and low-level performance optimization.</p>
-      <p><code>C++ (STL)</code> • <code>Python</code> • <code>Algorithmic Optimization</code> • <code>Problem Solving</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Distributed Systems & Design</h4>
-      <p>Connecting sleek frontend design systems with fault-tolerant, high-throughput backend APIs and database indexing.</p>
-      <p><code>REST & GraphQL</code> • <code>Microservices</code> • <code>Serverless</code> • <code>System Design</code></p>
-    </td>
-  </tr>
+<tr><td valign="top" width="50%">
+
+**core.service**
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash&theme=dark" />
+
+**frontend.service**
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+
+</td><td valign="top" width="50%">
+
+**backend.service**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&theme=dark" />
+
+**infra.service**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux&theme=dark" />
+
+</td></tr>
 </table>
 
-<br />
+```diff
++ all services active (running) — nominal
+```
 
-### 💻 Technical Ecosystem
+<br/>
 
-#### Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,bash&perline=12" alt="Languages" />
-</p>
+```bash
+$ docker ps --format "table {{.Names}}\t{{.Status}}"
+```
 
-#### Frontend Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,bootstrap&perline=12" alt="Frontend" />
-</p>
+| CONTAINER | STATUS |
+|---|---|
+| `ci-cd-pipelines` | scaling automated deploys, zero-downtime by default |
+| `dsa-grind` | up 400+ days · daily DP & graph reps |
+| `side-projects` | building, breaking, redeploying |
 
-#### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,graphql&perline=12" alt="Backend" />
-</p>
+<br/>
 
-#### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx,postman&perline=12" alt="DevOps" />
-</p>
+<div align="center">
 
----
+```bash
+$ git log --oneline --graph -5
+```
 
-### 📊 GitHub Metrics & Trophies
+<img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&icon_color=dbff00&text_color=e6edf3" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&hide_border=true&border_radius=12&background=020202&ring=dbff00&fire=dbff00&currStreakLabel=dbff00&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" width="48%" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0a0e17" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&theme=tokyonight&hide_border=true&border_radius=12&background=0a0e17" width="48%" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyushman&layout=compact&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&text_color=e6edf3" width="48%" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=xyushman&theme=dark&column=4&margin-w=10&no-frame=true&no-bg=true&row=2" width="48%" alt="Trophies" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyushman&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0a0e17" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=xyushman&theme=tokyonight&column=4&margin-w=15&no-frame=true&no-bg=true" width="48%" alt="Trophies" />
-</p>
+</div>
 
----
+<br/>
 
-### 🎮 Contribution Graph & Activity
+```bash
+$ tail -f /var/log/contributions.log
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
+<br/>
 
+```bash
+$ exit
+```
 
+<div align="center">
 
+**process finished — connection stays open**
+<sub>reach me anytime at ayushmanng04@gmail.com</sub>
+
+</div>
