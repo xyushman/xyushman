@@ -1,4 +1,4 @@
-name: Generate Contribution Graphs (Pacman + Snake)
+name: Generate Snake Contribution Grid
 
 on:
   schedule:
@@ -16,10 +16,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
 
       - name: Generate Snake contribution graph
         uses: Platane/snk@v3
