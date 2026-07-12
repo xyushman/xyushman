@@ -120,7 +120,19 @@ $ git log --oneline --graph -5 && github-activity --last=1y
 
 </div>
 
+<br/>
 
+```bash
+$ tail -f /var/log/contributions.log
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Graph" src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph.svg" width="97%"/>
+  </picture>
+</div>
 
 <br/>
 
