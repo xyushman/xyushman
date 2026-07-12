@@ -110,11 +110,11 @@ $ git log --oneline --graph -5 && github-activity --last=1y
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xyushman&show_icons=true&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&icon_color=dbff00&text_color=e6edf3" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=xyushman&show_icons=true&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&icon_color=dbff00&text_color=e6edf3" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyushman&hide_border=true&border_radius=12&background=020202&ring=dbff00&fire=dbff00&currStreakLabel=dbff00&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" width="48%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyushman&layout=compact&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&text_color=e6edf3" width="48%" alt="Top Languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=xyushman&theme=dark&column=4&margin-w=10&no-frame=true&no-bg=true&row=2" width="48%" alt="Trophies" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xyushman&layout=compact&hide_border=true&border_radius=12&bg_color=020202&title_color=dbff00&text_color=e6edf3" width="48%" alt="Top Languages" />
+<img src="https://github-profile-trophy-mirror.vercel.app/?username=xyushman&theme=dark&column=4&margin-w=10&no-frame=true&no-bg=true&row=2" width="48%" alt="Trophies" />
 
 </div>
 
