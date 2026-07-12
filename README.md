@@ -34,7 +34,7 @@ status:     ● online (system active)
 
 <br/>
 
-<div align="left">
+<div align="center">
   <a href="http://xyushman.qzz.io/"><img src="https://img.shields.io/badge/PORTFOLIO-xyushman.qzz.io-020202?style=for-the-badge&logo=googlechrome&logoColor=dbff00&borderColor=dbff00" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ayushmangupta04"><img src="https://img.shields.io/badge/LINKEDIN-ayushmangupta04-020202?style=for-the-badge&logo=linkedin&logoColor=dbff00&borderColor=dbff00" alt="LinkedIn" /></a>
   <a href="https://github.com/xyushman"><img src="https://img.shields.io/badge/GITHUB-xyushman-020202?style=for-the-badge&logo=github&logoColor=dbff00&borderColor=dbff00" alt="GitHub" /></a>
@@ -47,29 +47,37 @@ status:     ● online (system active)
 $ systemctl list-units --type=service --state=running
 ```
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td valign="top" width="50%">
-      <b>🟢 core.service</b> <code>[active (running) · 64.2 MB]</code><br/>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <b>🟢 core.service</b> <code>[active · 64.2 MB]</code><br/>
       <sub>Core Languages & Shell Automation Engine</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash&perline=6&theme=dark" alt="Core Skills" />
+      <br/><br/>
     </td>
-    <td valign="top" width="50%">
-      <b>🟢 frontend.service</b> <code>[active (running) · 112.8 MB]</code><br/>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <b>🟢 frontend.service</b> <code>[active · 112.8 MB]</code><br/>
       <sub>Client Architecture & UI Design Systems</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=6&theme=dark" alt="Frontend Skills" />
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <b>🟢 backend.service</b> <code>[active (running) · 98.4 MB]</code><br/>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <b>🟢 backend.service</b> <code>[active · 98.4 MB]</code><br/>
       <sub>API Orchestration & Database Engines</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&perline=6&theme=dark" alt="Backend Skills" />
+      <br/><br/>
     </td>
-    <td valign="top" width="50%">
-      <b>🟢 infra.service</b> <code>[active (running) · 256.0 MB]</code><br/>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <b>🟢 infra.service</b> <code>[active · 256.0 MB]</code><br/>
       <sub>Containerization & AWS Cloud Orchestration</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux&perline=6&theme=dark" alt="Infra Skills" />
+      <br/><br/>
     </td>
   </tr>
 </table>
