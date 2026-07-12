@@ -125,7 +125,13 @@ $ tail -f /var/log/contributions.log
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" width="97%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Graph" src="https://raw.githubusercontent.com/xyushman/xyushman/output/pacman-contribution-graph.svg" width="97%"/>
+  </picture>
+
+  <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyushman/xyushman/output/github-contribution-grid-snake-dark.svg" />
