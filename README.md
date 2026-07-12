@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-%20-FF5F56?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/-%20-FFBD2E?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/-%20-27C93F?style=flat-square" height="24"/> &nbsp;&nbsp; <code><b>ayushman@devops:~</b></code>
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=1000&color=DBFF00&center=true&vCenter=true&width=680&height=55&lines=root%40ayushman%3A~%24+whoami;DevOps+Engineer+%2F%2F+Full-Stack+Architect;Shipping+resilient+cloud+infrastructure+at+scale;Competitive+Programmer+%2F%2F+C%2B%2B+%26+Python+Algorithmic+Mastery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=DBFF00&center=true&vCenter=true&width=880&height=55&lines=root%40ayushman%3A~%24+whoami;DevOps+Engineer+%2F%2F+Full-Stack+Architect;Shipping+resilient+cloud+infrastructure+at+scale;Competitive+Programmer+%2F%2F+C%2B%2B+%26+Python+Algorithmic+Mastery" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=xyushman&style=flat-square&color=dbff00&label=PROFILE+VIEWS" height="20"/> <img src="https://img.shields.io/github/followers/xyushman?style=flat-square&color=dbff00&labelColor=020202&label=FOLLOWERS" height="20"/>
 
